@@ -60,7 +60,7 @@ span {
 }
 .main {
   width: 1343px;
-  margin: 150px auto;
+  margin: 100px auto;
   background: url(../img/back.png);
   box-shadow: 1px 1px 50px 20px rgba(87, 87, 87, 0.13);
   padding: 44px;
