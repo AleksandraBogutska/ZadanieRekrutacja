@@ -55,7 +55,12 @@ h2 {
   color: #1E2874;
   margin: 13px 0 5px;
 }
-
+.page__offer_textbefore {
+  font-size: 13px;
+  line-height: 148.2%;
+  margin-left: 2px;
+  margin-bottom: 4px;
+}
 span {
   color: #284DF8;
 }
